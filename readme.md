@@ -1,1 +1,1 @@
-![Practice Image](../master/image.png)
+![Practice Image](../master/image.jpg)
