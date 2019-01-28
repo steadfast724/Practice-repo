@@ -1,3 +1,3 @@
-<center> ![Practice Image](../master/image.jpg#center)</center>
+<center> <img src="/master/image.jpg" alt="Fruits"> </center>
 
 
