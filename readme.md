@@ -1,3 +1,7 @@
-<center> <img src="image.jpg" alt="Fruits"> </center>
+<p align="center"> 
+<img src="image.jpg" alt="Fruits">
+</p>
+
+
 
 
