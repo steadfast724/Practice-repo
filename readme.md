@@ -1,9 +1,3 @@
-![Practice Image](../master/image.jpg#center)
+<center> ![Practice Image](../master/image.jpg#center)</center>
 
 
-<style>
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
-</style>
